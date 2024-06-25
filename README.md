@@ -8,5 +8,5 @@
 
 ### YouTube Link
 
-[[Watch the video](https://youtu.be/Dd3VoTYjDIo)
+[Watch the video](https://youtu.be/Dd3VoTYjDIo)
 
