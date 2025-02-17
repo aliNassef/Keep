@@ -77,11 +77,7 @@ flutter pub get
 ```bash
 flutter run
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+ 
 ## 👤 Author
 
 Created by [Ali Nassef]
